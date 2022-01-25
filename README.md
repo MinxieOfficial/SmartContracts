@@ -1,10 +1,7 @@
 # SmartContracts
 SmartContracts for Minxie
 
-MINX v1 features 1 liquidity generating token contract (SafeMoon fork)
-
-1. 3% transaction tax for yield to all MINX holders
-2. 3% transaction tax to add liqudity to pancake swap pool
+MINX v1
 
 MINX v2 features 3 smart contracts:
 
